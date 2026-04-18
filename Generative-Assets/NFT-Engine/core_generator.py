@@ -8,7 +8,7 @@
 # 🔗 OFFICIAL REPOSITORY NETWORK:
 # 1. https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project
 # 2. https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Adel-Sultan-Supporting-
-# 3. https://github.com/awsanadelabdulbariahmedsultan-art/AwsanSultanToken-
+# 3. https://github.com/awsanadelabdulbariahmedsultan-art/AwsanSultanToken-AST-Omnichain-Project
 # ---------------------------------------------------------------------------------------------
 # Copyright (c) 2026. All Rights Reserved. Intellectual Property of Eng. Awsan Sultan.
 # =============================================================================================
